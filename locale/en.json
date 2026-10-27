@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "HTML View",
+    "description": "Renders raw HTML blocks in assistant replies in place: sandboxed, auto-sized, theme-aware, with all other Markdown unchanged."
+  }
+}

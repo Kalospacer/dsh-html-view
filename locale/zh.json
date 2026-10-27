@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "HTML 可视化",
+    "description": "把助手回复正文里的 HTML 块直接渲染在原位：沙箱隔离、高度自适应、跟随主题，其余 Markdown 显示保持不变。"
+  }
+}

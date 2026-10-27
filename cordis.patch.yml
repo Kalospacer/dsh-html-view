@@ -1,0 +1,5 @@
+# html-view：把助手回复正文里的 HTML 块直接渲染成画面。
+# Host 半边注册 html-visualization Skill，Client 半边接管 assistant-step 渲染。
+- insert:
+    - id: html-view
+      name: dsh-html-view
